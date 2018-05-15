@@ -8,7 +8,7 @@ titles:
 key: page-about
 ---
 
-A starter from NYC
+A fresh bartender from NYC
 
 Love cooking:meat_on_bone:, bartender:cocktail: and boardgames:game_die:
 
