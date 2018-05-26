@@ -25,3 +25,4 @@ Old Fashioned
 * Salt rimmed glass
 * Garnish with a lime wedge or slice
 * Can be requested over ice, straight up(no ice), or blended(frozen)
+* Use blue curacao instead of Triple Sec to make BLUE MARGARITA
